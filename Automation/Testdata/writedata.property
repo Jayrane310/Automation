@@ -1,0 +1,6 @@
+#This is my property file
+#Mon May 01 20:43:55 IST 2023
+browser=chrome
+password=manager
+url=https\://demo.actitime.com/login.do
+username=admin
